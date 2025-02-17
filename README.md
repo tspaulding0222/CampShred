@@ -1,0 +1,2 @@
+# CampShred
+Camp Shred website
